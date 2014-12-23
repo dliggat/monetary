@@ -1,0 +1,21 @@
+{
+  "name": "monetary",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dliggat/monetary",
+  "authors": [
+    "Dave Liggat <dliggat@gmail.com>"
+  ],
+  "description": "Demystifying finance",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.11.1",
+    "moment": "~2.7.0"
+  }
+}
