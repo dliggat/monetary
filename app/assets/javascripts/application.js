@@ -11,5 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+
+//= require d3
 //= require moment
+
 //= require_tree .
